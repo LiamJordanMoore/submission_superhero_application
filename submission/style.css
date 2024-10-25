@@ -1,0 +1,37 @@
+.gallery img{max-width: 100%;
+             height: auto;}
+             
+.headings b{color: darkgoldenrod;}
+
+.headings h3{color: purple;}
+
+.headings h1{color: darkgoldenrod;}
+
+#menu{width:100%;
+      height:40px;
+      background-color:transparent;
+      padding-top:12px;}
+
+#menu a{color:#ffffff;
+        font-family:Arial, Helvetica, sans-serif;
+        font-size:18px;
+        text-decoration:none;
+        font-weight:800px;
+        padding-left: 120px;
+        padding-right: 120px;}
+
+#menu a:hover{color:darkgoldenrod;}
+
+body{background-image:url(submission_images/pexels-miriamespacio-110854.jpg);
+            background-repeat: no-repeat;
+            background-size:cover;}
+
+img{size-adjust: 50px;}
+
+p{font-family: Arial, Helvetica, sans-serif;
+  color: antiquewhite;}
+
+b{font-family: Arial, Helvetica, sans-serif;
+  color: cornflowerblue;}
+
+  
